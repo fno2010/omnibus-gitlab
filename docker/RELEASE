@@ -1,4 +1,6 @@
 RELEASE_PACKAGE=gitlab-ce
 RELEASE_VERSION=17.2.4-ce
-DOWNLOAD_URL=https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/focal/gitlab-ce_17.2.4-ce.0_amd64.deb/download.deb
+DOWNLOAD_URL_amd64=https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/focal/gitlab-ce_17.2.4-ce.0_amd64.deb/download.deb
+DOWNLOAD_URL_arm64=https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/focal/gitlab-ce_17.2.4-ce.0_arm64.deb/download.deb
+CI_JOB_TOKEN=docker_no_ci
 
